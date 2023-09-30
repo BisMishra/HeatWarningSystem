@@ -1,6 +1,6 @@
-import drivers
+import Drivers
 
-display = drivers.Lcd()
+display = Drivers.Lcd()
 
 try:
     while True: 
